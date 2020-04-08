@@ -1,1 +1,1 @@
-acnh-bot
+Simple Telegram bot to quickly search fish/bug prices in Animal Crossing New Horizons
