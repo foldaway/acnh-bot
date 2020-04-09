@@ -49,7 +49,7 @@ const items = new Scene('items');
 items.enter((ctx) => ctx.reply('Select Item Type', Extra.markup(markup => markup.resize()
     .keyboard([
         ['Fish'],
-        ['Bugs'],
+        ['Bug'],
     ])
 )));
 
