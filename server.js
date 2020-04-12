@@ -41,6 +41,7 @@ function getOptions(data){
     for(item of data){
         names.push([item.name]);
     }
+    names.sort();
     return names;
 }
 
